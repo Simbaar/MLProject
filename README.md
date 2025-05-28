@@ -1,5 +1,6 @@
 ML Algorithms From Scratch
-In this folder I carry out machine learning algorithms from first principles to improve my understanding.
+
+In this folder I carry out machine learning algorithms to improve my knowledge.
 
 This will be an ongoing project and I am hoping to cover the following:
 
