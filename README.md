@@ -8,14 +8,14 @@ Linear Regression ✔
 
 Polynomial Regression
 
-Logistic Regression 
+Logistic Regression ✔
 
 Support Vector Machines 
 
-K-Nearest Neighboor 
+K-Nearest Neighboor ✔
 
 Naive Bayes
 
-K-Means
+K-Means ✔
 
 Neural Network 
