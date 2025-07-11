@@ -18,4 +18,8 @@ Naive Bayes
 
 K-Means ✔
 
+Natural Language Processing (NLP)
+
+Computer Vision
+
 Neural Network 
