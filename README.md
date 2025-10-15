@@ -6,16 +6,12 @@ This will be an ongoing project and I am hoping to cover the following:
 
 Linear Regression ✔
 
-Polynomial Regression
-
-Logistic Regression ✔
-
-Support Vector Machines 
+Logistic Regression ✔ 
 
 K-Nearest Neighboor ✔
-
-Naive Bayes
 
 K-Means ✔
 
 Natural Language Processing (NLP)
+
+Snowflake Intergration ✔
