@@ -1,0 +1,27 @@
+# Snowflake connectors
+snowflake-connector-python==3.7.0
+snowflake-snowpark-python==1.11.1
+
+# Data manipulation
+pandas==2.2.0
+numpy==1.26.3
+
+# Machine learning
+scikit-learn==1.4.0
+xgboost==2.0.3
+imbalanced-learn==0.12.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+faker==22.6.0
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Data validation
+great-expectations==0.18.8
+
